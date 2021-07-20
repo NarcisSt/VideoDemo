@@ -7,6 +7,8 @@ import java.sql.Blob;
 import java.sql.Date;
 import java.util.UUID;
 
+@NoArgsConstructor
+@AllArgsConstructor
 @Getter
 @Setter
 @Entity
